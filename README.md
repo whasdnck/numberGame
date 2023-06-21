@@ -1,4 +1,4 @@
-# numberGame
+# number baseball game
 ##  1~9까지 Random()를 이용하여 난수발생 구현(int x, y, z; 컴퓨터가 선택하는 3개 숫자)
 ![asd](https://github.com/whasdnck/numberGame/assets/127116197/46e5aa14-4f00-4268-b0b8-b159b66ef8d0)
 ![dd](https://github.com/whasdnck/numberGame/assets/127116197/d25656cf-46f0-4cc1-9215-06de8692e01c)
