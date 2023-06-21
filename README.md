@@ -68,5 +68,13 @@ ex) add(int x, int y){....}
 ## - 5. *main mathod 사용하기*
 ![화면 캡처 2023-06-20 141602](https://github.com/whasdnck/numberGame/assets/127116197/7684e01e-c5b3-4475-99f7-24f511013413)
 
-
+# - 실행문.
+## 시도 2번 이하
+![화면 캡처 2023-06-21 135929](https://github.com/whasdnck/numberGame/assets/127116197/66e49312-99cc-4714-9d59-1e67d3ba2895)
+## 시도 3번 부터 5번 이하
+![화면 캡처 2023-06-21 140103](https://github.com/whasdnck/numberGame/assets/127116197/33f45885-10fc-48bb-bfa4-c2eabdbff6a1)
+## 시도 6번~9번 
+![화면 캡처 2023-06-21 140259](https://github.com/whasdnck/numberGame/assets/127116197/cd6c9970-7933-447e-b1f9-31e316bb9bf8)
+## 시도 10번
+![화면 캡처 2023-06-21 140634](https://github.com/whasdnck/numberGame/assets/127116197/80e6a09b-4914-4ed3-9f97-f4e86132d69f)
 
