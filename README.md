@@ -78,3 +78,4 @@ ex) add(int x, int y){....}
 ## 시도 10번
 ![화면 캡처 2023-06-21 140634](https://github.com/whasdnck/numberGame/assets/127116197/80e6a09b-4914-4ed3-9f97-f4e86132d69f)
 
+🥴
